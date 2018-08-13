@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Testpowr {
+public class AckPow {
   public static void main (String [] args) {
     Scanner input = new Scanner (System.in);
     System.out.println("Please input a number");
